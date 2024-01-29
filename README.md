@@ -1,5 +1,8 @@
 # 2d tile based RPG game
 
+![Game_screenshot](https://github.com/larinius/2d_RPG_demo/assets/5310985/6b489a8b-2e41-4a17-b068-c064ac2ee4df)
+
+
 ## Tools used
 - SFML - rendering framework - https://www.sfml-dev.org/
 - Tgui - game gui - https://tgui.eu/
